@@ -1,3 +1,25 @@
 body{
-    background-color: aquamarine;
+    background-color: rgb(239, 163, 11);
+    color: rgb(63, 32, 32);
+    
+    font-family: fantasy;
+}
+p{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    font-style: italic;
+    font-stretch: ultra-condensed;
+    font-size: 3rem;
+
+}
+.img{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+ 
+}
+img{
+    background-attachment: fixed;
+    height: 350px;
 }
