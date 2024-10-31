@@ -1,7 +1,7 @@
 body{
-    background-color: rgb(239, 163, 11);
+    background-color: rgba(11, 148, 239, 0.574);
     color: rgb(63, 32, 32);
-    
+    /* background-image: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fcenublu.az%2Fsizi-maraqlandiran%2Flankaran-saharda-faaliyyat-gostaran-kitab-magazalari%2F&psig=AOvVaw1yAJ1tnvFoxMQjAYa9y6hW&ust=1728764519037000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLDlvO-Th4kDFQAAAAAdAAAAABAE"); */
     font-family: fantasy;
 }
 p{
